@@ -1,4 +1,10 @@
-﻿using System;
+﻿//challenging mechanics3.cs
+// CS-1181
+// Sagar Gaire
+// 9/15/2017
+// Anil Mandal
+// from this assingment we can learn how coding are done by using if, else, else-if statement. 
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -351,7 +357,7 @@ namespace Challenging_Mechanics_3
             {
 
 
-
+                        `   
 
 
 
